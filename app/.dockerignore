@@ -1,0 +1,27 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+virtualenv/
+Pipfile
+Pipfile.lock
+
+# Ignore dependency caches
+*.egg-info/
+*.egg
+*.whl
+
+# Ignore logs and temp files
+logs/
+*.log
+nohup.out
+tmp/
+*.swp
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml

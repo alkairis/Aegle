@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "genai-rtb"
+version = "0.1.0"
+description = ""
+authors = ["Deepak Singh Rajput"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+transformers = "^4.48.2"
+huggingface-hub = "^0.28.1"
+fastapi = {extras = ["standard"], version = "^0.115.6"}
+uvicorn = "^0.34.0"
+pinecone = {extras = ["grpc"], version = "^5.4.2"}
+llama-index = "^0.12.19"
+llama-index-llms-huggingface = "^0.4.2"
+llama-index-llms-huggingface-api = "^0.3.1"
+python-dotenv = "^1.0.1"
+llama-index-embeddings-huggingface = "^0.5.2"
+llama-index-vector-stores-pinecone = "^0.4.4"
+pymupdf = "^1.25.3"
+google-cloud-logging = "^3.11.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
