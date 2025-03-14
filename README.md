@@ -1,7 +1,7 @@
 # Medical Chatbot
 
 ## Introduction
-Medical Chatbot is an innovative project leveraging advanced NLP models and vector database technologies to provide insightful medical information. Utilizing the Llama-2 model and Pinecone as a vector database, this chatbot aims to transform the way medical knowledge is accessed and delivered.
+Medical Chatbot is an innovative project leveraging advanced NLP models and vector database technologies to provide insightful medical information. Utilizing the Mistral model and Pinecone as a vector database, this chatbot aims to transform the way medical knowledge is accessed and delivered.
 
 ## Features
 - **Advanced NLP Processing**: Uses the Mistral model to generate accurate medical responses.
