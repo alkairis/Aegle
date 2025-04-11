@@ -1,7 +1,8 @@
-# Medical Chatbot
+# Dhanvi - Medical Chatbot
 
 ## Introduction
 Medical Chatbot is an innovative project leveraging advanced NLP models and vector database technologies to provide insightful medical information. Utilizing the Mistral model and Pinecone as a vector database, this chatbot aims to transform the way medical knowledge is accessed and delivered.
+Dhanvi evokes healing and intelligence - named after the Hindu god of medicine. Dhanvi honou=rs divine healing roots - modern, sleek and trusted like the deity who brought Ayurveda to the word, it blends ancient care with futuristic AI precision.
 
 ## Features
 - **Advanced NLP Processing**: Uses the Mistral model to generate accurate medical responses.
