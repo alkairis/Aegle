@@ -1,9 +1,12 @@
 # Ophiuchus - Medical Chatbot
+<img align="right" alt="Coding" width="350" src="ophiuchus.webp">
 
 ## Introduction
 Ophiuchus is a cutting-edge medical chatbot that harnesses the power of advanced Natural Language Processing (NLP) and vector database technologies to deliver insightful, context-rich medical knowledge. Named after the ancient symbol of healing, the serpent-bearer constellation tied to Asclepius—the god of medicine—Ophiuchus represents the fusion of classical medical wisdom and modern AI intelligence.
 
 Built using the Mistral model and Pinecone for semantic search, Ophiuchus is designed to assist medical professionals, students, and researchers in quickly accessing trusted information through an intuitive and intelligent conversational interface.
+
+
 
 ## Features
 - **Advanced NLP Processing**: Uses the Mistral model to generate accurate medical responses.
