@@ -1,8 +1,9 @@
-# Dhanvi - Medical Chatbot
+# Ophiuchus - Medical Chatbot
 
 ## Introduction
-Medical Chatbot is an innovative project leveraging advanced NLP models and vector database technologies to provide insightful medical information. Utilizing the Mistral model and Pinecone as a vector database, this chatbot aims to transform the way medical knowledge is accessed and delivered.
-Dhanvi evokes healing and intelligence - named after the Hindu god of medicine. Dhanvi honou=rs divine healing roots - modern, sleek and trusted like the deity who brought Ayurveda to the word, it blends ancient care with futuristic AI precision.
+Ophiuchus is a cutting-edge medical chatbot that harnesses the power of advanced Natural Language Processing (NLP) and vector database technologies to deliver insightful, context-rich medical knowledge. Named after the ancient symbol of healing, the serpent-bearer constellation tied to Asclepius—the god of medicine—Ophiuchus represents the fusion of classical medical wisdom and modern AI intelligence.
+
+Built using the Mistral model and Pinecone for semantic search, Ophiuchus is designed to assist medical professionals, students, and researchers in quickly accessing trusted information through an intuitive and intelligent conversational interface.
 
 ## Features
 - **Advanced NLP Processing**: Uses the Mistral model to generate accurate medical responses.
@@ -28,8 +29,8 @@ Dhanvi evokes healing and intelligence - named after the Hindu god of medicine. 
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/alkairis/medical-chatbot.git
-   cd medical-chatbot
+   git clone [https://github.com/alkairis/Ophiuchus.git](https://github.com/alkairis/Ophiuchus.git)
+   cd Ophiuchus
    ```
 2. **Set Up Virtual Environment:**
    ```bash
